@@ -1,0 +1,56 @@
+{
+  "Action": [
+    {
+      "title": "John Wick: Chapter 4",
+      "image": "https://image.tmdb.org/t/p/w500/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg"
+    },
+    {
+      "title": "Mission: Impossible - Dead Reckoning Part One",
+      "image": "https://image.tmdb.org/t/p/w500/NNxYkU70HPurnNCSiCjYAmacwm.jpg"
+    },
+    {
+      "title": "Fast X",
+      "image": "https://image.tmdb.org/t/p/w500/fiVW06jE7z9YnO4trhaMEdclSiC.jpg"
+    },
+    {
+      "title": "Extraction 2",
+      "image": "https://image.tmdb.org/t/p/w500/7gKI9hpEMcZUQpNgKrkDzJpbnNS.jpg"
+    }
+  ],
+  "Comedy": [
+    {
+      "title": "Free Guy",
+      "image": "https://image.tmdb.org/t/p/w500/xmbU4JTUm8rsdtn7Y3Fcm30GpeT.jpg"
+    },
+    {
+      "title": "Barbie",
+      "image": "https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg"
+    },
+    {
+      "title": "The Super Mario Bros. Movie",
+      "image": "https://image.tmdb.org/t/p/w500/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg"
+    },
+    {
+      "title": "The Lost City",
+      "image": "https://image.tmdb.org/t/p/w500/neMZH82Stu91d3iqvLdNQfqPPyl.jpg"
+    }
+  ],
+  "Family": [
+    {
+      "title": "Elemental",
+      "image": "https://image.tmdb.org/t/p/w500/8riWcADI1ekEiBguVB9vkilhiQm.jpg"
+    },
+    {
+      "title": "Encanto",
+      "image": "https://image.tmdb.org/t/p/w500/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg"
+    },
+    {
+      "title": "Frozen II",
+      "image": "https://image.tmdb.org/t/p/w500/pjeMs3yqRmFL3giJy4PMXWZTTPa.jpg"
+    },
+    {
+      "title": "The Lion King",
+      "image": "https://image.tmdb.org/t/p/w500/2bXbqYdUdNVa8VIWXVfclP2ICtT.jpg"
+    }
+  ]
+}

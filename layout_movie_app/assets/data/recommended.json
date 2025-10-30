@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Guardians of the Galaxy Vol. 3",
+    "genre": "Sci-Fi, Action",
+    "description": "Peter Quill rallies his team to defend the universe and protect one of their own after Rocket’s past resurfaces.",
+    "image": "https://image.tmdb.org/t/p/w780/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg"
+  },
+  {
+    "title": "Black Panther: Wakanda Forever",
+    "genre": "Action, Drama",
+    "description": "The people of Wakanda fight to protect their home from intervening world powers after King T'Challa's death.",
+    "image": "https://image.tmdb.org/t/p/w780/sv1xJUazXeYqALzczSZ3O6nkH75.jpg"
+  },
+  {
+    "title": "Avatar: The Way of Water",
+    "genre": "Fantasy, Adventure",
+    "description": "Jake Sully lives with his family on Pandora. A familiar threat returns to finish what was started.",
+    "image": "https://image.tmdb.org/t/p/w780/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg"
+  },
+  {
+    "title": "The Batman",
+    "genre": "Action, Crime",
+    "description": "Batman investigates Gotham’s corruption when a sadistic killer leaves a trail of cryptic clues.",
+    "image": "https://image.tmdb.org/t/p/w780/74xTEgt7R36Fpooo50r9T25onhq.jpg"
+  },
+  {
+    "title": "A Star Is Born",
+    "genre": "Romance, Drama",
+    "description": "A musician helps a young singer find fame even as age and alcoholism send his own career into a downward spiral.",
+    "image": "https://image.tmdb.org/t/p/w780/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg"
+  }
+]
